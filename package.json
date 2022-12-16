@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@mediapipe/objectron": "^0.4.1636596145",
+    "device-detector-js": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.15",
+    "typescript": "^4.9.4"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "type": "module"
+}
